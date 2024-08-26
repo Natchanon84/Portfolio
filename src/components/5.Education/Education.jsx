@@ -30,8 +30,7 @@ function Blog() {
 
                     <div className="description-education">
                         <h5>King Mongkut's University of Technology North Bangkok</h5>
-                        Bachelor of Engineering in Power Electronics Technology
-
+                        <p>Bachelor of Engineering in Power Electronics Technology</p>
                     </div>
                 </div>
                 <div className="item-content-education">
