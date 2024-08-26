@@ -303,6 +303,13 @@
   font-weight: bold;
   margin-right: 1rem;
 }
+.item-content-education-certificate {
+  width: 90%;
+  height: 15vh;
+  padding: 1rem;
+
+  display: flex;
+}
 /* -----------------------------------------------6.Contact----------------------------------------------- */
 .container-contact {
   /* border: 1px solid red; */
@@ -383,13 +390,11 @@ textarea:focus {
 }
 
 .btn-form {
-  pointer-events: none;
   background-color: white;
   width: 20%;
   height: 10%;
   border: none;
   border-radius: 1rem;
-
   border: 2px solid black;
 }
 /* ----------------------------------Tablet----------------------------------*/

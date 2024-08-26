@@ -18,7 +18,7 @@ function navbar() {
 
                     <div className="name">
                         <h5>Natchanon Phomuang</h5>
-                        <h6>https://github.com/Natchanon84</h6>
+                        <h6>github.com/Natchanon84</h6>
                     </div>
                 </Link>
 

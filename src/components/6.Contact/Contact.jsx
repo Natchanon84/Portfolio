@@ -40,7 +40,7 @@ function Contact() {
                         <input type="email" placeholder="Email address" ></input>
                         <input type="text" placeholder="Phone number" />
                         <textarea type="text" placeholder="Write your message" />
-                        <button className="btn-form" type="submit">Submit</button>
+                        <button className="btn-form" type="submit" onClick={() => window.open('mailto:natchanon.77777@gmail.com')}>Submit</button>
                     </form>
                 </div>
 

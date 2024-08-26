@@ -1,5 +1,10 @@
 import "../components.css"
 import star from "../../img/star.svg"
+import { Accordion, Tooltip, OverlayTrigger } from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import certificate1 from "../../img/certificate1.jpg"
+import certificate2 from "../../img/certificate2.jpg"
+
 
 function Blog() {
 
@@ -61,7 +66,17 @@ function Blog() {
                         <h5>Bodindecha (Sing Singhaseni) 4</h5>
                     </div>
                 </div>
-
+                <div className="item-content-education-certificate">
+                    <Accordion className="w-100">
+                        <Accordion.Item eventKey="1">
+                            <Accordion.Header>Certificate</Accordion.Header>
+                            <Accordion.Body className="d-flex justify-content-center align-content-center flex-column">
+                                <img src={certificate2} />
+                                <img src={certificate1} />
+                            </Accordion.Body>
+                        </Accordion.Item>
+                    </Accordion>
+                </div>
 
 
             </div>

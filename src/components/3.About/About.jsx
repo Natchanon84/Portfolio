@@ -33,7 +33,7 @@ function About() {
 
             <div className="content-about">
                 <div className="item1-content-about">
-                    <img src={img3} />
+                    {/* <img src={img3} /> */}
                 </div>
                 <div className="item2-content-about">
                     <p>
