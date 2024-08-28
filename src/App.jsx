@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 import Navbar from "./components/1.Navbar/Navbar.jsx"
@@ -14,10 +13,13 @@ import Test from "./components/test/test.jsx"
 
 function App() {
 
+
+
+
   return (
 
     <BrowserRouter>
-    {/* <Test /> */}
+      {/* <Test /> */}
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />}></Route>

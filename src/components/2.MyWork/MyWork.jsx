@@ -1,10 +1,9 @@
 import { Link } from "react-router-dom"
-import { Accordion, Tooltip, OverlayTrigger } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "../components.css"
 
 import star from "../../img/star.svg"
-import myp_1 from "../../img/myp_1.1.png"
+import myp_1 from "../../img/myp_1.2.png"
 import myp_2 from "../../img/myp_2.png"
 import myp_3 from "../../img/myp_3.png"
 
@@ -53,11 +52,11 @@ function MyWork() {
                     </Link>
 
                 </div>
-                <div className="item-portfolio bg-success">4</div>
-                <div className="item-portfolio bg-warning">5</div>
+                {/* <div className="item-portfolio bg-success">4</div> */}
+                {/* <div className="item-portfolio bg-warning">5</div>
                 <div className="item-portfolio bg-danger">6</div>
                 <div className="item-portfolio bg-secondary">7</div>
-                <div className="item-portfolio bg-info">8</div>
+                <div className="item-portfolio bg-info">8</div> */}
 
 
 
