@@ -25,7 +25,7 @@ function Experience() {
                     </div>
 
                     <div className="description-exp">
-                        <h5>mu Space and Advanced Technology Co., Ltd.</h5>
+                        <h5>mu Space and Advanced Technology Co.,Ltd.</h5>
                         <p>- Developed a high-efficiency inverter for the Project "Powerbox"
                         </p>
                         <p>- Implementing a DSP-based control circuit that can rapidly adapt to dynamic operating conditions and achieve precise power control, all while meeting compact size and weight requirements.</p>
@@ -50,7 +50,7 @@ function Experience() {
                     </div>
 
                     <div className="description-exp">
-                        <h5>MICROCHIP ELECTRONICS SERVICE COMPANY LIMITED</h5>
+                        <h5> Microchip electronic service Co.,Ltd.</h5>
                         <p>- Check and repair PCB boards used with the system Control the operation of machinery in the factory.</p>
                     </div>
                 </div>

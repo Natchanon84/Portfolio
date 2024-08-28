@@ -103,7 +103,7 @@ function Navbar() {
                         <p>- CSS</p>
                         <p>- JavaScript</p>
                         <p>- React.js</p>
-                        <p>- Boostrap</p>
+                        <p>- Bootstrap</p>
                     </div>
                 </div>
                 {/* <div className="middle">
