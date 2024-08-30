@@ -6,6 +6,7 @@ import star from "../../img/star.svg"
 import myp_1 from "../../img/myp_1.2.png"
 import myp_2 from "../../img/myp_2.png"
 import myp_3 from "../../img/myp_3.png"
+import myp_4 from "../../img/myp_4.png"
 
 function MyWork() {
 
@@ -49,6 +50,15 @@ function MyWork() {
                     </Link>
                     <Link to="https://natchaaaa-tmdb-vite.netlify.app/" target="_blank">
                         <img src={myp_3} />
+                    </Link>
+
+                </div>
+                <div className="item-portfolio ">
+                    <Link className="linkgithub" to="https://github.com/Natchanon84/Portfolio" target="_blank">
+                        Github
+                    </Link>
+                    <Link to="https://portfolio-natchanon.netlify.app/" target="_blank">
+                        <img src={myp_4} />
                     </Link>
 
                 </div>
