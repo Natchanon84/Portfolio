@@ -34,7 +34,7 @@ function About() {
             <div className="content-about">
                 <div className="item1-content-about">
                     <Link className="" to="https://github.com/Natchanon84" target="_blank">
-                        {/* <img src={img3} /> */}
+                        <img src={img3} />
                     </Link>
                 </div>
                 <div className="item2-content-about">
