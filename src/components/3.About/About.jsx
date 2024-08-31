@@ -34,12 +34,12 @@ function About() {
             <div className="content-about">
                 <div className="item1-content-about">
                     <Link className="" to="https://github.com/Natchanon84" target="_blank">
-                        <img src={img3} />
+                        {/* <img src={img3} /> */}
                     </Link>
                 </div>
                 <div className="item2-content-about">
                     <p>
-                        <strong> Hi, I'm Nat</strong> a recent graduate in Power Electronics Engineering from King Mongkut's Institute of Technology North Bangkok. With my engineering foundation, I'm excited to apply problem-solving skills to the field of web development. I'm currently developing my skills in HTML, CSS, and JavaScript, and have explored React for building user interfaces
+                        <strong> Hi, I'm Nat</strong> a recent graduate in Power Electronics Engineering from King Mongkut's University of Technology North Bangkok. With my engineering foundation, I'm excited to apply problem-solving skills to the field of web development. I'm currently developing my skills in HTML, CSS, and JavaScript, and have explored React for building user interfaces
                     </p>
                     <p>
                         I've built this portfolio to showcase my projects and document my learning journey as I continue to develop my skills in HTML, CSS, and JavaScript. Through experimentation with React, I've gained experience in creating basic user interfaces and demonstrated my potential to deliver innovative web solutions.
